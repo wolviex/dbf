@@ -8361,6 +8361,7 @@ code_pages = {
         0x97 : ('mac_latin2', 'Macintosh EE'),
         0x98 : ('mac_greek', 'Greek Macintosh'),
         0xf0 : ('utf8', '8-bit unicode'),
+        0xf1 : ('latin-1', 'Western European ISO-8859-1'),
         }
 
 
