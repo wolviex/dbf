@@ -79,6 +79,20 @@ Custom data types::
                   numerical value, and attempts to use it as such will raise
                   an exception
 
+.Table Arguments::
+    (taken from table init function)
+
+    filename  
+    field_specs=None
+    memo_size=128
+    ignore_memos=False          
+    codepage=None               #Identifies which decoder to use
+    default_data_types=None
+    field_data_types=None
+    dbf_type=None
+    on_disk=True
+    unicode_errors='strict'
+
 
 Whirlwind Tour
 --------------
